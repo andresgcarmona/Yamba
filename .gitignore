@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+bin/
+ic_launcher-web.png
+jtwitter-yamba.jar
+libs/
+proguard-project.txt
+project.properties
